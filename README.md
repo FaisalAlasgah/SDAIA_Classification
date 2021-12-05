@@ -7,3 +7,8 @@ independent value. This model will help us identify which type of people
 cancel their booking more, we got our data form Kaggle, we used a lot of
 libraries to clean, visualize and analyze to come up with the best model
 possible. 
+
+### contributors:
+
+[Faisal Alasgah](https://github.com/FaisalAlasgah)
+
