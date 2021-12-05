@@ -1,4 +1,4 @@
-# -SDAIA_Classification
+# SDAIA_Classification
 Our goal for this Classification Model is to predict the individuals that are
 going to cancel their hotel booking, we will take the (canceled or not) as
 our dependent value and the number of adults, children and babies,
