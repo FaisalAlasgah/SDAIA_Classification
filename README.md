@@ -12,3 +12,4 @@ possible.
 
 [Faisal Alasgah](https://github.com/FaisalAlasgah)
 
+[Abdalla Alnujaidy](https://github.com/aalnujaidy)
