@@ -8,7 +8,7 @@ cancel their booking more, we got our data form Kaggle, we used a lot of
 libraries to clean, visualize and analyze to come up with the best model
 possible. 
 
-###Instructor: [**Mr. Srinivas Rao**]()
+**Instructor:** [**Mr. Srinivas Rao**]()
 
 ### contributors:
 
