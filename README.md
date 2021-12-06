@@ -1,3 +1,5 @@
+#Classification #AI #Data_Science
+
 # SDAIA_Classification
 Our goal for this Classification Model is to predict the individuals that are
 going to cancel their hotel booking, we will take the (canceled or not) as
@@ -16,4 +18,3 @@ possible.
 
 [Abdalla Alnujaidy](https://github.com/aalnujaidy)
 
-#Classification #AI #Data_Science
