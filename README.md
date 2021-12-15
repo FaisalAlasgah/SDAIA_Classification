@@ -29,7 +29,7 @@ We plan to get our data form Kaggle website, and we will have around 100,000 dat
 
 
 
-**Instructor:** [**Mr. Srinivas Rao**]()
+### Instructor: [**Mr. Srinivas Rao**]()
 
 ### contributors:
 
