@@ -16,7 +16,8 @@ libraries to clean, visualize and analyze to come up with the best model
 possible. 
 
 ## Dataset:
-We plan to get our data form Kaggle website, and we will have around 100,000 data points.# Tools:
+We plan to get our data form Kaggle website, and we will have around 100,000 data points.
+## Tools:
 ### Technologies:
 - Python
 - Jupyter Notebook
