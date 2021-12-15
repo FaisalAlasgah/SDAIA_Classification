@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/aalnujaidy/SDAIA_Classification/">
+<!--   <a href="https://github.com/aalnujaidy/SDAIA_Classification/"> -->
     <img src="https://cedcommerce.com/blog/wp-content/uploads/2017/02/2.png" alt="💻 Logo">
   </a>
 
