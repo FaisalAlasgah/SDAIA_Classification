@@ -4,7 +4,7 @@
     <img src="https://cedcommerce.com/blog/wp-content/uploads/2017/02/2.png" alt="💻 Logo">
   </a>
   
-<h3 align="center">Hotel Booking Classification</h3>
+# Hotel Booking Classification
 Our goal for this Classification Model is to predict the individuals that are
 going to cancel their hotel booking, we will take the (canceled or not) as
 our dependent value and the number of adults, children and babies,
